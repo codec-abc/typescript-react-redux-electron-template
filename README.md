@@ -1,7 +1,6 @@
-# typescript-react-redux-electron-template
+this project is a little template to start a project with React, Redux and Typescript (and optionally Electron). It uses Webpack to generate a single javascript file for output. The build is automated with gulp.
 
-Little template to start a project with React, Redux and Typescript (and optionally Electron). It uses Webpack to generate a single javascript file for output. The build is automated with gulp.
-It is a simple counter example.
+It is a simple up and down counter example.
 
 # Build
 
@@ -22,6 +21,8 @@ To build :
 gulp build
 ```
 In the ```dist/``` folder the index.html file will be generated along the necessary file. It should work fine if you open the file in your web browser. 
+
+# Run
 
 To run in electron :
 ```bash
