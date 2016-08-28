@@ -33,6 +33,6 @@ export class Counter extends React.Component<CounterProps, CounterState>
           -
         </button>
       </p>
-    )
+    );
   }
 }
