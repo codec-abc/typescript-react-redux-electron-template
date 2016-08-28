@@ -1,4 +1,4 @@
-this project is a little template to start a project with React, Redux and Typescript (and optionally Electron). It uses Webpack to generate a single javascript file for output. The build is automated with gulp.
+This project is a little template to start a project with React, Redux and Typescript (and optionally Electron). It uses Webpack to generate a single javascript file for output. The build is automated with gulp.
 
 It is a simple up and down counter example.
 
