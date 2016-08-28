@@ -1,0 +1,23 @@
+{
+  "name": "electron-quick-start",
+  "version": "1.0.0",
+  "description": "A Electron app with React, Redux and Typescript",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codec-abc/typescript-react-redux-test.git"
+  },
+  "keywords": [
+    "Electron",
+    "Redux",
+    "React",
+    "Typescript"
+  ],
+  "author": "codec-abc",
+  "devDependencies": {
+    "electron-prebuilt": "^1.3.3"
+  }
+}
