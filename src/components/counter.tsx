@@ -11,6 +11,7 @@ export interface CounterProps
 
 export interface CounterState { }
 
+// The counter component. Extended from a react component.
 export class Counter extends React.Component<CounterProps, CounterState> 
 {
   constructor(props : CounterProps) 
